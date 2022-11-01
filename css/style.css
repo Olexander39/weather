@@ -22,7 +22,7 @@ img:hover
 {
     transform: scale(120%);
     filter: grayscale(100%);
-    transition: width 5s;
+    transition: 5s;
 }
 
 p {
